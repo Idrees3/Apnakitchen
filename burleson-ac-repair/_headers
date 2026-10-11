@@ -1,0 +1,9 @@
+/*
+  Content-Security-Policy: script-src 'self' 'unsafe-inline' https://www.googletagmanager.com https://www.google-analytics.com https://challenges.cloudflare.com; object-src 'none'; base-uri 'self'
+  Alt-Svc: clear
+
+/assets/*
+  Cache-Control: public, max-age=86400, must-revalidate
+
+/*.webp
+  Cache-Control: public, max-age=86400, must-revalidate

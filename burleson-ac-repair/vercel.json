@@ -1,0 +1,116 @@
+{
+  "cleanUrls": true,
+  "trailingSlash": false,
+  "redirects": [
+    {
+      "source": "/index.html",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/about.html",
+      "destination": "/about",
+      "permanent": true
+    },
+    {
+      "source": "/ac-repair.html",
+      "destination": "/ac-repair",
+      "permanent": true
+    },
+    {
+      "source": "/ac-repair-burleson.html",
+      "destination": "/ac-repair-burleson",
+      "permanent": true
+    },
+    {
+      "source": "/ac-repair-crowley.html",
+      "destination": "/ac-repair-crowley",
+      "permanent": true
+    },
+    {
+      "source": "/ac-repair-fort-worth.html",
+      "destination": "/ac-repair-fort-worth",
+      "permanent": true
+    },
+    {
+      "source": "/ac-repair-joshua.html",
+      "destination": "/ac-repair-joshua",
+      "permanent": true
+    },
+    {
+      "source": "/ac-repair-mansfield.html",
+      "destination": "/ac-repair-mansfield",
+      "permanent": true
+    },
+    {
+      "source": "/ac-replacement.html",
+      "destination": "/ac-replacement",
+      "permanent": true
+    },
+    {
+      "source": "/ac-tune-up.html",
+      "destination": "/ac-tune-up",
+      "permanent": true
+    },
+    {
+      "source": "/air-conditioner-installation.html",
+      "destination": "/air-conditioner-installation",
+      "permanent": true
+    },
+    {
+      "source": "/blog.html",
+      "destination": "/blog",
+      "permanent": true
+    },
+    {
+      "source": "/central-air-conditioning-repair.html",
+      "destination": "/central-air-conditioning-repair",
+      "permanent": true
+    },
+    {
+      "source": "/contact.html",
+      "destination": "/contact",
+      "permanent": true
+    },
+    {
+      "source": "/ductless-mini-split-repair",
+      "destination": "/services",
+      "permanent": true
+    },
+    {
+      "source": "/ductless-mini-split-repair.html",
+      "destination": "/services",
+      "permanent": true
+    },
+    {
+      "source": "/emergency-ac-repair.html",
+      "destination": "/emergency-ac-repair",
+      "permanent": true
+    },
+    {
+      "source": "/hvac-repair.html",
+      "destination": "/hvac-repair",
+      "permanent": true
+    },
+    {
+      "source": "/locations.html",
+      "destination": "/locations",
+      "permanent": true
+    },
+    {
+      "source": "/privacy-policy.html",
+      "destination": "/privacy-policy",
+      "permanent": true
+    },
+    {
+      "source": "/same-day-ac-service.html",
+      "destination": "/same-day-ac-service",
+      "permanent": true
+    },
+    {
+      "source": "/services.html",
+      "destination": "/services",
+      "permanent": true
+    }
+  ]
+}
